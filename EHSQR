@@ -1,10 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta http-equiv="refresh" content="0; url=https://app.smartsheet.com/b/publish?EQBCT=YOUR_PUBLISH_LINK_HERE" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="0; url=https://app.smartsheet.com/b/publish?EQBCT=a0e382273a6346a68a9c9ec933cf1f9d" />
     <title>Redirecting...</title>
   </head>
   <body>
-    <p>If you are not redirected, <a href="https://app.smartsheet.com/b/publish?EQBCT=YOUR_PUBLISH_LINK_HERE">click here</a>.</p>
+    <p>If you are not automatically redirected, 
+      <a href="https://app.smartsheet.com/b/publish?EQBCT=a0e382273a6346a68a9c9ec933cf1f9d">
+        click here to open the Smartsheet Dashboard
+      </a>.
+    </p>
   </body>
 </html>
